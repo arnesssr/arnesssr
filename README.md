@@ -1,60 +1,49 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+arnesssr;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-</p>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F731&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+arnesssr;A+Fullstack+Developer" alt="Typing SVG" />
 
 ## 🚀 About Me
+I'm a self-taught Full Stack Developer with a passion for crafting clean and efficient code. My journey in tech has been driven by curiosity and a love for problem-solving.
 
-I'm a self-taught Full Stack Developer with a passion for crafting clean and efficient code. My journey in tech has been driven by curiosity and a love for problem-solving. Here's a bit about what I do:
+## 🛠️ Tech Stack
+- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- 💻 Frontend: JavaScript, TypeScript, React, Next.js, Vite, Remix, HTML, CSS, Tailwind
-- 🛠️ Backend: Node.js, Express, MongoDB, Supabase
-- 🔧 Tools: VS Code, Git, GitHub
-- 🌐 Blockchain: Solidity, Ethereum
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+- **Tools:** ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+- **Blockchain:** ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ## 🌟 Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,vscode,solidity&perline=6" alt="Skills" />
-</p>
+```
+Frontend Development   ███████████████████░░   90%
+Backend Development    ██████████████████░░░   85%
+Database Management    ███████████████░░░░░░   75%
+UI/UX Design           █████████████░░░░░░░░   65%
+Blockchain             ████████░░░░░░░░░░░░░   40%
+```
 
 ## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arnesssr&show_icons=true&theme=radical)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arnesssr&show_icons=true&theme=tokyonight" alt="'s GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesssr&theme=tokyonight" alt="arnesssr's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnesssr&layout=compact&theme=tokyonight" alt="arnesssr's Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnesssr&layout=compact&theme=radical)
 
 ## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:arningtonjames@gmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnesssr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesabira)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://abira.portfolio.netlify.app)
 
 ---
 
-<p align="center">💡 Always open to collaborating on awesome projects! Let's build something amazing together. 🚀</p>
-  </p>
-  
-</div>
+💡 Always open to collaborating on awesome projects! Let's build something amazing together. 

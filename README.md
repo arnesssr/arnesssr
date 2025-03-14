@@ -42,7 +42,7 @@ Blockchain             ████████░░░░░░░░░░░
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesabira)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://abira.portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://abiraportfolio.netlify.app)
 
 ---
 

@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=1000&color=00F731&center=true&vCenter=true&random=false&width=600&height=70&lines=WELCOME+TO+THE+FUTURE;I'M+ARNESSSR;FULL+STACK+DEVELOPER" alt="Typing SVG" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=1000&color=00F731&center=true&vCenter=true&random=false&width=600&height=70&lines=I'M+ARNESSSR;FULL+STACK+DEVELOPER" alt="Typing SVG" /></div>
 
 <div align="center">
   

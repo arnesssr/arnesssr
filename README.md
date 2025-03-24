@@ -52,17 +52,7 @@
 
 <div align="center">
 
-```diff
-@@            QUANTUM TECH PROFICIENCY LEVELS            @@
-```
 
-```
-Frontend Development   ████████████████████▒   90%
-Backend Development    ███████████████████▒▒   85%
-Database Management    ███████████████▒▒▒▒▒▒   75%
-UI/UX Design           █████████████▒▒▒▒▒▒▒▒   65%
-Blockchain             ████████▒▒▒▒▒▒▒▒▒▒▒▒▒   40%
-```
 
 </div>
 

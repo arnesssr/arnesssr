@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,30&height=180&section=header&text=Neural%20Interface%20Initialized&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,30&height=180&section=header&text=%20%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h2 align="center">🧠 NEURAL INTERFACE</h2>
+      <h2 align="center"></h2>
       <div align="center">
         <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%"/>
       </div>
@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnesssr&theme=matrix&bg_color=000000&hide_border=true&custom_title=NEURAL%20NETWORK%20CONTRIBUTION%20MATRIX" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnesssr&theme=matrix&bg_color=000000&hide_border=true&custom_title=%20%20CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph" />
 </div>
 
 <div>
@@ -122,7 +122,7 @@
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,30&height=120&section=footer&text=NEURAL%20TRANSMISSION%20COMPLETE&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,30&height=120&section=footer&text=%20%20&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
 
 <div align="center">

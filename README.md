@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/jamesabira">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f731" alt="LinkedIn" />
   </a>
-  <a href="https://abiraportfolio.netlify.app">
+  <a href="https://abiraportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=00f731" alt="Portfolio" />
   </a>
 </div>

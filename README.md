@@ -34,7 +34,7 @@
     </td>
     <td width="50%">
       <h2 align="center">🚀 ABOUT ME</h2>
-      <p align="center" style="font-size:1.2rem">I'm a self-taught <b>Full Stack Developer</b> with a passion for crafting clean and efficient code. My journey in tech has been driven by curiosity and a love for problem-solving.</p>
+      <p align="center" style="font-size:1.2rem">I'm a  <b>Full Stack Developer</b> with a passion for crafting clean and efficient code. My journey in tech has been driven by curiosity and a love for problem-solving.</p>
       <div align="center">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesssr&theme=matrix&hide_border=true" alt="GitHub Streak" />
       </div>

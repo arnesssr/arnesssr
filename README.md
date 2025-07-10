@@ -1,25 +1,23 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=1000&color=00F731&center=true&vCenter=true&random=false&width=600&height=70&lines=I'M+ARNESSSR;FULL+STACK+DEVELOPER" alt="Typing SVG" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=1000&color=00F731&center=true&vCenter=true&random=false&width=600&height=70&lines=I'M+ARNESSSR;GAME+DEVELOPER" alt="Typing SVG" /></div>
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,30&height=180&section=header&text=%20%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=180&section=header&text=%20%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arnesssr&style=for-the-badge&color=00f731" alt="Profile Views" />
-  <a href="https://linkedin.com/in/jamesabira">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00f731" alt="LinkedIn" />
-  </a>
   <a href="https://abiraportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=00f731" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=gamepad&logoColor=white&color=00f731" alt="Portfolio" />
   </a>
+  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=circle&logoColor=white&color=00f731" alt="Status" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnesssr&column=8&theme=matrix&no-frame=true&no-bg=true" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arnesssr&column=8&theme=matrix&no-frame=true&no-bg=true" width="100%" alt="Achievement Unlocked" />
 </div>
 
 <br>
@@ -27,16 +25,16 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h2 align="center"></h2>
+      <h2 align="center">🎮 LEVEL PROGRESS</h2>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%"/>
+        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Code Snake Game" width="100%"/>
       </div>
     </td>
     <td width="50%">
-      <h2 align="center">🚀 ABOUT ME</h2>
-      <p align="center" style="font-size:1.2rem">I'm a  <b>Full Stack Developer</b> with a passion for crafting clean and efficient code. My journey in tech has been driven by curiosity and a love for problem-solving.</p>
+      <h2 align="center">⚡ PLAYER STATS</h2>
+      <p align="center" style="font-size:1.2rem">Web Developer with experience in building interactive applications. Focus on clean code and efficient solutions.</p>
       <div align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesssr&theme=matrix&hide_border=true" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesssr&theme=matrix&hide_border=true" alt="Coding Streak" />
       </div>
     </td>
   </tr>
@@ -45,38 +43,31 @@
 <br>
 
 <div align="center">
+  <h2>🛠️ SKILL LOADOUT</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,remix,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,solidity,ethereum&perline=9&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-
-
-
-</div>
-
-<br>
-
-<div align="center">
   <a href="#">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arnesssr&show_icons=true&include_all_commits=true&count_private=true&theme=matrix&hide_border=true" alt="GitHub Stats" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnesssr&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arnesssr&show_icons=true&include_all_commits=true&count_private=true&theme=matrix&hide_border=true" alt="Battle Stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnesssr&layout=compact&theme=matrix&hide_border=true" alt="Language Mastery" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnesssr&theme=matrix&bg_color=000000&hide_border=true&custom_title=%20%20CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnesssr&theme=matrix&bg_color=000000&hide_border=true&custom_title=%20%20ACTIVITY%20MAP" width="100%" alt="Code Activity" />
 </div>
 
 <div>
-  <h2 align="center">⚡ TECH STACK</h2>
+  <h2 align="center">🎯 TECH ARSENAL</h2>
 </div>
 
 <details open>
-  <summary><b>Frontend Cyberspace</b></summary>
+  <summary><b>⚔️ Frontend Weapons</b></summary>
   <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=00f731" alt="JavaScript" />
@@ -92,7 +83,7 @@
 </details>
 
 <details open>
-  <summary><b>Backend Matrix</b></summary>
+  <summary><b>🛡️ Backend Defense</b></summary>
   <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black&color=00f731" alt="Node.js" />
@@ -103,7 +94,7 @@
 </details>
 
 <details open>
-  <summary><b>Digital Arsenal</b></summary>
+  <summary><b>🔧 Development Tools</b></summary>
   <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black&color=00f731" alt="VS Code" />
@@ -113,7 +104,7 @@
 </details>
 
 <details open>
-  <summary><b>Blockchain Dimension</b></summary>
+  <summary><b>⛓️ Blockchain Zone</b></summary>
   <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=black&color=00f731" alt="Solidity" />
@@ -122,13 +113,10 @@
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,21,30&height=120&section=footer&text=%20%20&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=120&section=footer&text=%20%20&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
 </div>
 
 <div align="center">
 
 ```diff
-+ Always open to collaborating on awesome projects! Let's build something amazing together. +
-```
-
-</div>
++ Ready to collaborate on projects. Let's build something together. +

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F731&center=true&vCenter=true&random=false&width=850&height=80&lines=ARNESSSR+%7C;AI+SYSTEMS+ENGINEER;FULL+STACK+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=00F731&center=true&vCenter=true&random=false&width=1000&height=80&lines=ARNESSSR+%7C;BACKEND+SYSTEMS+ENGINEER;AI-POWERED+DEV+SYSTEMS;SCALABLE+SAAS+PLATFORMS;INTELLIGENT+COMMERCE+INFRASTRUCTURE" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -41,8 +41,8 @@
 
 <div align="center">
   <p>
-    Developer focused on intelligent systems<br>
-    Clean architecture · scalable platforms · real-world software
+    Backend-focused developer building intelligent systems<br>
+    Clean architecture · scalable platforms · automation-first engineering
   </p>
 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arnesssr&theme=neon-dark&hide_border=true&background=000000&stroke=00f731&ring=00f731&fire=00f731&currStreakLabel=00f731&sideLabels=00f731&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
